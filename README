@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=60
+
+This syntax file for Borlands ObjectPascal (Delphi,Kylix) is derived from the original pascal.vim.
+Some basic VCL-Classes are added and some keywords have new meanings (e.g. read/write, assign).
+It also includes a different color scheme.
+
